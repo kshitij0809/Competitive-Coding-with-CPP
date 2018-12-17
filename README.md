@@ -1,2 +1,2 @@
-# Competitive-Coding-with-C-
+# Competitive-Coding-with-C++
 codes of c++ for practice
